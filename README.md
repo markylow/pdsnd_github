@@ -15,5 +15,12 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+
 ### Data
 Include csv data files and store in the right folder
+
+### Edit files
+Please consult your nearest vending machine on what are the appropriate measures to do so.
+
+### Love story
+I like hotto doggu and it is the best doggu.
